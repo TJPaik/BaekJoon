@@ -22,10 +22,15 @@
 <details>
 <summary>Divide-and-conquer</summary>
 
+* Divide: Divide the problem into several sub-problems of the same type until it can no longer be split.
+* Conquer: Solve the sub-problem of the smallest unit to conquer.
+* Combination: Combines the results for a sub-problem with the results for the original problem.
+
 | Number                                         | Title                                                                                                                             |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| [11444](https://www.acmicpc.net/problem/11444) | [피보나치 수 6](https://github.com/TJPaik/BaekJoon/blob/main/solution/11444_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%206) |
+| [11444](https://www.acmicpc.net/problem/11444) | [피보나치 수 6](https://github.com/TJPaik/BaekJoon/blob/main/solution/11444_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%206.md) |
 </details>
+
 
 
 <details>
