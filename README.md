@@ -28,13 +28,26 @@
 
 | Number                                         | Title                                                                                                                                |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [1725](https://www.acmicpc.net/problem/1725)   | [히스토그램](https://github.com/TJPaik/BaekJoon/blob/main/solution/1725_%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.md)            |
 | [11444](https://www.acmicpc.net/problem/11444) | [피보나치 수 6](https://github.com/TJPaik/BaekJoon/blob/main/solution/11444_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%206.md) |
+| [11401](https://www.acmicpc.net/problem/11401) | [이항 계수 3](https://github.com/TJPaik/BaekJoon/blob/main/solution/11401_%EC%9D%B4%ED%95%AD%20%EA%B3%84%EC%88%98%203.md)            |
 </details>
 
+<details>
+<summary>Math</summary>
+
+* Fermat's little theorem
+
+| Number                                         | Title                                                                                                                     |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [11401](https://www.acmicpc.net/problem/11401) | [이항 계수 3](https://github.com/TJPaik/BaekJoon/blob/main/solution/11401_%EC%9D%B4%ED%95%AD%20%EA%B3%84%EC%88%98%203.md) |
+</details>
 
 
 <details>
 <summary>ETC</summary>
+
+* ETC
 
 | Number                                         | Title                                                                                                                                                   |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,5 +58,16 @@
 | [18111](https://www.acmicpc.net/problem/18111) | [마인크래프트](https://github.com/TJPaik/BaekJoon/blob/main/solution/18111_%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8.md)                   |
 </details>
 
+<details>
+<summary>Data structure</summary>
+
+
+| DS           | Number                                       | Title                                                                                                                                                   |
+| ------------ | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Segment Tree | [1725](https://www.acmicpc.net/problem/1725) | [히스토그램](https://github.com/TJPaik/BaekJoon/blob/main/solution/1725_%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.md)                               |
+| multiset     | [7662](https://www.acmicpc.net/problem/7662) | [이중 우선순위 큐](https://github.com/TJPaik/BaekJoon/blob/main/solution/7662_%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.md) |
+</details>
+
 ## Todo
 * 2166
+* 1725
