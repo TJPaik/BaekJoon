@@ -37,10 +37,12 @@
 <summary>Math</summary>
 
 * Fermat's little theorem
+* Green theorem
 
-| Number                                         | Title                                                                                                                     |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [11401](https://www.acmicpc.net/problem/11401) | [이항 계수 3](https://github.com/TJPaik/BaekJoon/blob/main/solution/11401_%EC%9D%B4%ED%95%AD%20%EA%B3%84%EC%88%98%203.md) |
+| Number                                         | Title                                                                                                                                    |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [11401](https://www.acmicpc.net/problem/11401) | [이항 계수 3](https://github.com/TJPaik/BaekJoon/blob/main/solution/11401_%EC%9D%B4%ED%95%AD%20%EA%B3%84%EC%88%98%203.md)                |
+| [2166](https://www.acmicpc.net/problem/2166)   | [다각형의 면적](https://github.com/TJPaik/BaekJoon/blob/main/solution/2166_%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%20%EB%A9%B4%EC%A0%81.md) |
 </details>
 
 
@@ -53,7 +55,6 @@
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [1019](https://www.acmicpc.net/problem/1019)   | [책 페이지](https://github.com/TJPaik/BaekJoon/blob/main/solution/1019_%EC%B1%85%20%ED%8E%98%EC%9D%B4%EC%A7%80.md)                                      |
 | [1806](https://www.acmicpc.net/problem/1806)   | [부분합](https://github.com/TJPaik/BaekJoon/blob/main/solution/1806_%EB%B6%80%EB%B6%84%ED%95%A9.md)                                                     |
-| [2166](https://www.acmicpc.net/problem/2166)   | [다각형의 면적](https://github.com/TJPaik/BaekJoon/blob/main/solution/2166_%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%20%EB%A9%B4%EC%A0%81.md)                |
 | [7662](https://www.acmicpc.net/problem/7662)   | [이중 우선순위 큐](https://github.com/TJPaik/BaekJoon/blob/main/solution/7662_%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.md) |
 | [18111](https://www.acmicpc.net/problem/18111) | [마인크래프트](https://github.com/TJPaik/BaekJoon/blob/main/solution/18111_%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8.md)                   |
 </details>
@@ -62,10 +63,12 @@
 <summary>Data structure</summary>
 
 
-| DS           | Number                                       | Title                                                                                                                                                   |
-| ------------ | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Segment Tree | [1725](https://www.acmicpc.net/problem/1725) | [히스토그램](https://github.com/TJPaik/BaekJoon/blob/main/solution/1725_%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.md)                               |
-| multiset     | [7662](https://www.acmicpc.net/problem/7662) | [이중 우선순위 큐](https://github.com/TJPaik/BaekJoon/blob/main/solution/7662_%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.md) |
+| DS                 | Number                                         | Title                                                                                                                                                   |
+| ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Segment Tree       | [1725](https://www.acmicpc.net/problem/1725)   | [히스토그램](https://github.com/TJPaik/BaekJoon/blob/main/solution/1725_%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.md)                               |
+| multiset           | [7662](https://www.acmicpc.net/problem/7662)   | [이중 우선순위 큐](https://github.com/TJPaik/BaekJoon/blob/main/solution/7662_%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.md) |
+| Segment Tree(Lazy) | [10999](https://www.acmicpc.net/problem/10999) | [구간 합 구하기 2](https://github.com/TJPaik/BaekJoon/blob/main/solution/10999_%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202.md)     |
+
 </details>
 
 ## Todo
