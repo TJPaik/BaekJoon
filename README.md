@@ -20,7 +20,7 @@
 | [9295](https://www.acmicpc.net/problem/9295)   | [LCS2](https://github.com/TJPaik/BaekJoon/blob/main/solution/9295_LCS2.md)                                                                                                                                  |
 | [11066](https://www.acmicpc.net/problem/11066) | [파일 합치기](https://github.com/TJPaik/BaekJoon/blob/main/solution/11066_%ED%8C%8C%EC%9D%BC%20%ED%95%A9%EC%B9%98%EA%B8%B0.md) |
 | [12865](https://www.acmicpc.net/problem/12865) | [평범한 배낭](https://github.com/TJPaik/BaekJoon/blob/main/solution/12865_%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD.md)                                                                              |
-| [14003](https://www.acmicpc.net/problem/14003) | [가장 긴 증가하는 부분 수열5](https://github.com/TJPaik/BaekJoon/blob/main/solution/14003_%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B45.md) |
+| [14003](https://www.acmicpc.net/problem/14003) | [가장 긴 증가하는 부분 수열 5](https://github.com/TJPaik/BaekJoon/blob/main/solution/14003_%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%205.md) |
 
 </details>
 
