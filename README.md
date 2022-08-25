@@ -61,7 +61,7 @@
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [1019](https://www.acmicpc.net/problem/1019)   | [책 페이지](https://github.com/TJPaik/BaekJoon/blob/main/solution/1019_%EC%B1%85%20%ED%8E%98%EC%9D%B4%EC%A7%80.md)                                      |
 | [1450](https://www.acmicpc.net/problem/1450)   | [냅색문제](https://github.com/TJPaik/BaekJoon/blob/main/solution/1450_%EB%83%85%EC%83%89%EB%AC%B8%EC%A0%9C.md)                                          |
-| [1717](https://www.acmicpc.net/problem/171현)  | [집합의 표현](https://github.com/TJPaik/BaekJoon/blob/main/solution/1717_%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.md)                           |
+| [1717](https://www.acmicpc.net/problem/1717)  | [집합의 표현](https://github.com/TJPaik/BaekJoon/blob/main/solution/1717_%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.md)                           |
 | [1806](https://www.acmicpc.net/problem/1806)   | [부분합](https://github.com/TJPaik/BaekJoon/blob/main/solution/1806_%EB%B6%80%EB%B6%84%ED%95%A9.md)                                                     |
 | [7662](https://www.acmicpc.net/problem/7662)   | [이중 우선순위 큐](https://github.com/TJPaik/BaekJoon/blob/main/solution/7662_%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.md) |
 | [18111](https://www.acmicpc.net/problem/18111) | [마인크래프트](https://github.com/TJPaik/BaekJoon/blob/main/solution/18111_%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8.md)                   |
