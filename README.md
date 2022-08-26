@@ -87,7 +87,7 @@
 
 | Number                                         | Title                                                                                                                                                   |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [1197](https://www.acmicpc.net/problem/1197)   | [최소 스패닝 트리](https://github.com/TJPaik/BaekJoon/blob/main/solution/.1197_%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%ACmd) |
+| [1197](https://www.acmicpc.net/problem/1197)   | [최소 스패닝 트리](https://github.com/TJPaik/BaekJoon/blob/main/solution/1197_%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC.md) |
 | [1753](https://www.acmicpc.net/problem/1753)   | [최단경로](https://github.com/TJPaik/BaekJoon/blob/main/solution/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.md)                                          |
 | [1865](https://www.acmicpc.net/problem/1865)   | [웜홀](https://github.com/TJPaik/BaekJoon/blob/main/solution/1865_%EC%9B%9C%ED%99%80.md)                                                                |
 | [1967](https://www.acmicpc.net/problem/1967)   | [트리의 지름](https://github.com/TJPaik/BaekJoon/blob/main/solution/1967_%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.md)                           |
