@@ -60,6 +60,7 @@
 | Number                                         | Title                                                                                                                                                   |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [1019](https://www.acmicpc.net/problem/1019)   | [책 페이지](https://github.com/TJPaik/BaekJoon/blob/main/solution/1019_%EC%B1%85%20%ED%8E%98%EC%9D%B4%EC%A7%80.md)                                      |
+| [1786](https://www.acmicpc.net/problem/1786)   | [찾기](https://github.com/TJPaik/BaekJoon/blob/main/solution/1786_%EC%B0%BE%EA%B8%B0.md)                                      |
 | [1450](https://www.acmicpc.net/problem/1450)   | [냅색문제](https://github.com/TJPaik/BaekJoon/blob/main/solution/1450_%EB%83%85%EC%83%89%EB%AC%B8%EC%A0%9C.md)                                          |
 | [1717](https://www.acmicpc.net/problem/1717)   | [집합의 표현](https://github.com/TJPaik/BaekJoon/blob/main/solution/1717_%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.md)                           |
 | [1806](https://www.acmicpc.net/problem/1806)   | [부분합](https://github.com/TJPaik/BaekJoon/blob/main/solution/1806_%EB%B6%80%EB%B6%84%ED%95%A9.md)                                                     |
@@ -75,6 +76,7 @@
 | ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Stack              | [1655](https://www.acmicpc.net/problem/1655)   | [가운데를 말해요](https://github.com/TJPaik/BaekJoon/blob/main/solution/1655_%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC%20%EB%A7%90%ED%95%B4%EC%9A%94.md)     |
 | Segment Tree       | [1725](https://www.acmicpc.net/problem/1725)   | [히스토그램](https://github.com/TJPaik/BaekJoon/blob/main/solution/1725_%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.md)                               |
+| Stack              | [1918](https://www.acmicpc.net/problem/1918) | [후위표기식](https://github.com/TJPaik/BaekJoon/blob/main/solution/1918_%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D.md)                                                    |
 | multiset           | [7662](https://www.acmicpc.net/problem/7662)   | [이중 우선순위 큐](https://github.com/TJPaik/BaekJoon/blob/main/solution/7662_%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.md) |
 | Segment Tree(Lazy) | [10999](https://www.acmicpc.net/problem/10999) | [구간 합 구하기 2](https://github.com/TJPaik/BaekJoon/blob/main/solution/10999_%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202.md)     |
 | deque              | [13549](https://www.acmicpc.net/problem/13549) | [숨바꼭질 3](https://github.com/TJPaik/BaekJoon/blob/main/solution/13549_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%203.md)                                   |
@@ -98,6 +100,8 @@
 
 ## Todo
 * 1725 히스토그램
+* 1786 찾기
+* 1918 후위표기식
 * 1865 웜홀 - floyd warshall - reason?
 * 20151 선분교차 5( ccw ?)
 * graph 정리
