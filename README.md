@@ -100,6 +100,8 @@
 
 </details>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paiktj)](https://solved.ac/paiktj/)
+
 ## Todo
 * 1725 히스토그램
 * 1786 찾기
@@ -107,3 +109,5 @@
 * 1865 웜홀 - floyd warshall - reason?
 * 20151 선분교차 5( ccw ?)
 * graph 정리
+
+
