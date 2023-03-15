@@ -99,8 +99,11 @@
 | [11657](https://www.acmicpc.net/problem/11657) | [타임머신](https://github.com/TJPaik/BaekJoon/blob/main/solution/11657_%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0.md)                                         |
 
 </details>
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paiktj)](https://solved.ac/paiktj/)
+
+</div>
 
 ## Todo
 * 1725 히스토그램
